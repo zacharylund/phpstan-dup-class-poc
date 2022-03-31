@@ -1,0 +1,6 @@
+parameters:
+    parallel:
+        maximumNumberOfProcesses: 1
+    level: 8
+    paths:
+        - lib
